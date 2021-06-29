@@ -7,7 +7,7 @@
 
 ## Description
 
-Using ARKit2 SelfishAR brings the Selfish gameboard cards to live. This app shows the characters turned into zombies in 3D. How exciting is that? Try it out!
+Using ARKit2 SelfishAR brings the Selfish gameboard cards to life. This app shows the characters turned into zombies in 3D. How exciting is that? Try it out!
 
 
 ## Screenshot
