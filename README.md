@@ -1,7 +1,9 @@
 
 ![Begin Banner](Documentation/readme-begin-banner-mau.png)
 
-#  SelfishAR
+#  SelfishAR App
+
+<img src= Documentation/ARKit.png  height="256" width="256">
 
 ## Description
 
